@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988857805289",
+    "project_id": "wemanity-event-app",
+    "storage_bucket": "wemanity-event-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988857805289:android:de4a3ad7ef5f7d4bb44378",
+        "android_client_info": {
+          "package_name": "com.example.wemanity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988857805289-l128p2vk57isvuneeuqi3imnao6da8ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccpE7NR1HJBz2X0Ngf8Ff-wL1Z50tVKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988857805289-l128p2vk57isvuneeuqi3imnao6da8ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
